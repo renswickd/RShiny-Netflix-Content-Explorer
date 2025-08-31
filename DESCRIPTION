@@ -1,0 +1,10 @@
+
+**`DESCRIPTION`**
+Package: netflix.like.explorer
+Title: Netflix Content Explorer & Activity Tracker (Shiny)
+Version: 0.1.0
+Authors@R: person("Renswick Delvar", email = "renswick.delver@gmail.com", role = c("aut","cre"))
+Description: Shiny app to explore Netflix catalog, show recommendations, and analyse viewing activity.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true

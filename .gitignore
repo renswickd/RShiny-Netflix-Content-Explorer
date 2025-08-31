@@ -1,0 +1,7 @@
+.Rhistory
+.Rproj.user
+.DS_Store
+renv/library/
+cache/
+data/raw/
+
